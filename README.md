@@ -1,4 +1,4 @@
-# vision1
+# vision
 
 ## Project setup
 ```
